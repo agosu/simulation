@@ -1,0 +1,2 @@
+4 			100000 				15 				20 			3
+laikas studentui	dokumentu priemimo laikas	studento atejimo tikimybe	pirmos tvarkymo laikas	antros tvarkymo laikas
